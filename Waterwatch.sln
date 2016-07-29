@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A7FEC378-9A07-B3A1-4E95-AF4A9B58896E}") = "Waterwatch", "Assembly-CSharp.csproj", "{4AF12C37-0218-B972-1B36-14FF639E4B01}"
+EndProject
+Project("{A7FEC378-9A07-B3A1-4E95-AF4A9B58896E}") = "Waterwatch", "Assembly-CSharp-Editor.csproj", "{9B1AD31A-ED8C-E4DB-B715-374A0917E60B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AF12C37-0218-B972-1B36-14FF639E4B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AF12C37-0218-B972-1B36-14FF639E4B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AF12C37-0218-B972-1B36-14FF639E4B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AF12C37-0218-B972-1B36-14FF639E4B01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B1AD31A-ED8C-E4DB-B715-374A0917E60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B1AD31A-ED8C-E4DB-B715-374A0917E60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B1AD31A-ED8C-E4DB-B715-374A0917E60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B1AD31A-ED8C-E4DB-B715-374A0917E60B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
